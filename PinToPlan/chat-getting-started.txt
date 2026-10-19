@@ -1,0 +1,15 @@
+PinToPlan/
+├── src/
+│   └── app/
+│       ├── index.tsx          # Home calendar
+│       ├── my-pins.tsx        # Saved inspiration
+│       ├── add-pin.tsx        # Add and schedule
+│       └── pin-details.tsx    # View and edit
+├── components/
+│   ├── PinCard.tsx
+│   ├── WeekSelector.tsx
+│   └── CategoryFilter.tsx
+├── types/
+│   └── pin.ts                 # Data definitions
+└── assets/
+    └── images/                # Local image assets
